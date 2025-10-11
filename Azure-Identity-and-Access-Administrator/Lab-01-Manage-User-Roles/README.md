@@ -37,7 +37,7 @@ Stay tuned for updates! 🚀
 
 
 👉 **Follow all detailed steps and screenshots on Medium:**  
-[Azure IAM Lab Series](https://medium.com/@azhariqbal)
+[Azure IAM Lab Series](https://medium.com/@azhariqbal682)
 
 
 
