@@ -27,13 +27,13 @@ Instructions <br>
 👉 [Read full Exercise on Medium](https://medium.com/@azhariqbal682/exercise-4-bulk-import-of-users-41b6e237d165)
 
 #### ✅ Exercise 5 — Remove a User from Microsoft Entra ID  
-**Task 1:** — Remove a User
-**Task 2:** — Restore a deleted user
+**Task 1:** — Remove a User <br>
+**Task 2:** — Restore a deleted user <br>
 👉 [Read full Exercise on Medium](https://medium.com/@azhariqbal682/exercise-5-remove-a-user-from-microsoft-entra-id-e6185321e7f6)
 
 #### ✅ Exercise 6 — Add a Windows 10 License to a User Account  
-**Task 1** — Find your unlicensed user in Azure Active Directory
-**Task 2** — Add a Windows license to Raul
+**Task 1** — Find your unlicensed user in Azure Active Directory <br>
+**Task 2** — Add a Windows license to Raul <br>
 👉 [Read full Exercise on Medium](https://medium.com/@azhariqbal682/exercise-6-add-a-windows-10-license-to-a-user-account-0335b40be631)
 
 
