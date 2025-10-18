@@ -41,8 +41,6 @@ Instructions <br>
 
 In **Lab 01 – Manage User Roles**, I explored the core identity management capabilities of Microsoft Entra ID (formerly Azure AD) through six hands-on exercises. This lab focused on creating, managing, and securing user accounts while learning lifecycle operations such as assigning roles, performing bulk user imports, deleting and restoring accounts, and managing license assignments. Each exercise helped build a practical understanding of how administrators control access, permissions, and user provisioning in cloud environments using Microsoft 365 and Entra ID.
 
-Stay tuned for updates! 🚀
-
 
 👉 **Follow all detailed steps and screenshots on Medium:**  
 [Azure IAM Lab Series](https://medium.com/@azhariqbal682)
